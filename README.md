@@ -1,51 +1,70 @@
-# Campus-Service-Management-System
-A Python-based computational thinking project developed to improve campus service operations by efficiently handling service requests, analyzing algorithm performance, and optimizing staff routing across campus locations.
+# Campus Service Management System 🚀
 
-🔹 Features
-Sorting service requests using:
-Bubble Sort
-Merge Sort
-Searching request records using:
-Linear Search
-Binary Search
-Performance analysis using:
-Execution Time
-Number of Comparisons
-Memory Usage
-Route optimization using:
-Greedy Nearest-Neighbour Algorithm
-Dijkstra’s Algorithm
-Final service schedule generation
-Data visualization using Matplotlib graphs
+A Python-based computational thinking project developed to improve campus service operations by efficiently handling service requests, analysing algorithm performance, and optimizing staff routing across campus locations.
 
+---
 
-🔹 Technologies Used
-Python
-CSV Module
-Matplotlib
-Tracemalloc
+## 🔹 Features
 
+- Sorting service requests using:
+  - Bubble Sort
+  - Merge Sort
 
-🔹 Concepts Applied
-Computational Thinking
-Data Structures (Lists & Dictionaries)
-Sorting & Searching Algorithms
-Route Optimization Algorithms
-Performance Evaluation & Scalability Analysis
+- Searching request records using:
+  - Linear Search
+  - Binary Search
 
+- Performance analysis using:
+  - Execution Time
+  - Number of Comparisons
+  - Memory Usage
 
-🔹 Input Files
-requests.csv
-staff.csv
-locations.csv
+- Route optimization using:
+  - Greedy Nearest-Neighbour Algorithm
+  - Dijkstra’s Algorithm
 
+- Final service schedule generation
 
-🔹 Outputs
-Sorted and prioritized requests
-Performance metrics and graphs
-Optimized campus routes
-Final service schedule
+- Data visualization using Matplotlib graphs
 
+---
 
-🔹 Academic Purpose
+## 🔹 Technologies Used
+
+- Python
+- CSV Module
+- Matplotlib
+- Tracemalloc
+
+---
+
+## 🔹 Concepts Applied
+
+- Computational Thinking
+- Data Structures (Lists & Dictionaries)
+- Sorting & Searching Algorithms
+- Route Optimization Algorithms
+- Performance Evaluation & Scalability Analysis
+
+---
+
+## 🔹 Input Files
+
+- `requests.csv`
+- `staff.csv`
+- `locations.csv`
+
+---
+
+## 🔹 Outputs
+
+- Sorted and prioritized requests
+- Performance metrics and graphs
+- Optimized campus routes
+- Final service schedule
+
+---
+
+## 🔹 Academic Purpose
+
 This project was developed for a Computational Thinking coursework assignment to demonstrate problem decomposition, abstraction, algorithmic thinking, and evaluation using real-world campus service management scenarios.
